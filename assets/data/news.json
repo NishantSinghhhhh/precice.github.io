@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T07:09:48.311594",
+  "generated_at": "2026-04-13T07:57:52.535668",
   "topics": [
     {
       "id": 217,
@@ -22,7 +22,7 @@
       "last_posted_at": "2026-03-20T13:44:57.857Z",
       "like_count": 5,
       "posts_count": 3,
-      "views": 46,
+      "views": 47,
       "description": "Earlier this year, we started a quarterly Newsletter, highlighting the most important updates in the preCICE universe, including: New publications New features New adapters, bindings, tools, tutorials, and more Upcoming..."
     },
     {
@@ -34,7 +34,7 @@
       "last_posted_at": "2026-03-19T11:39:12.748Z",
       "like_count": 5,
       "posts_count": 1,
-      "views": 46,
+      "views": 47,
       "description": "In October 5-9, 2026, we are organizing the first online preCICE training, mainly targeting participants in the US, Canada, and Latin America (time: 12\u20133 pm EDT (UTC-4)) that cannot easily..."
     },
     {
@@ -58,7 +58,7 @@
       "last_posted_at": "2026-03-02T11:36:59.078Z",
       "like_count": 1,
       "posts_count": 6,
-      "views": 196,
+      "views": 197,
       "description": "Besides the preCICE Workshops (with the next one expected in March 2027), we regularly organize preCICE sessions in larger conferences. The WCCM 2026 conference will take place in Munich, Germany,..."
     },
     {
@@ -94,7 +94,7 @@
       "last_posted_at": "2025-10-22T10:52:31.506Z",
       "like_count": 7,
       "posts_count": 4,
-      "views": 315,
+      "views": 317,
       "description": "Dear preCICE community, Some of you are already experimenting with just\u2011in\u2011time data mapping and other features introduced in preCICE v3.2. In my recently completed thesis, Flexible mesh\u2011particle coupling with preCICE,..."
     },
     {
@@ -118,7 +118,7 @@
       "last_posted_at": "2025-07-15T07:42:25.142Z",
       "like_count": 3,
       "posts_count": 8,
-      "views": 214,
+      "views": 219,
       "description": "The preCICE Workshop 2025 will take place at HSU Hamburg on 8th to 12th of September. The workshop will include an introduction course and is, thus, suitable for new and..."
     },
     {
@@ -166,7 +166,7 @@
       "last_posted_at": "2025-04-07T04:59:59.909Z",
       "like_count": 4,
       "posts_count": 4,
-      "views": 203,
+      "views": 205,
       "description": "Summary: We have been developing a JSON schema for preCICE adapters and tools improving interoperability and enabling tooling support. Find out more about the schema and what you can do..."
     },
     {
@@ -298,7 +298,7 @@
       "last_posted_at": "2024-02-27T09:42:45.629Z",
       "like_count": 8,
       "posts_count": 4,
-      "views": 1043,
+      "views": 1046,
       "description": "The longer you wait for something, the more you appreciate it, right? preCICE v3 is finally out and we are pretty happy about it. v3.0.0 is a breaking release. This..."
     },
     {
@@ -322,7 +322,7 @@
       "last_posted_at": "2023-11-06T13:40:28.038Z",
       "like_count": 7,
       "posts_count": 2,
-      "views": 644,
+      "views": 646,
       "description": "Ah\u2026 that feeling of finally meeting the preCICE community in person and confirming how nice everyone is! precice2023-group-21200\u00d71200 318 KB The preCICE Workshop 2023 is long over, and we have..."
     },
     {
